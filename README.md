@@ -1,1 +1,1 @@
-# Auxiliary-recitation
+###一个辅助背诵的安卓应用
